@@ -21,7 +21,7 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws*  
 
-####  What run_analysis.R does
+###  What run_analysis.R does
 This script file in this repo performs those steps on the dataset (for more details, please go to **section 3** in the `CodeBook.md`) :
 * Download, unzip, and import the appropriate data from data files into dataframes
 * Merges the training and the test sets to create one data set.
