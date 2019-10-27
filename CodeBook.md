@@ -187,4 +187,4 @@ We have **88 variables** in `merged_dat`, **30 subject**s, and **6 recorded acti
 * `arrange()` will arrange the rows by subject and next, by activity.
 
 
-After those previous phrases, we obtain a tidy dataset `tidy_dat` with **180 observations** and **88 variables**. Export it into text file (`TidyData.txt`) using `write_table(tidy_dat, "./UCI HAR Dataset/TidyData.txt",row.names = FALSE)`
+After those previous phrases, we obtain a tidy dataset `tidy_dat` with **180 observations** and **88 variables**. Export it into text file (`TidyData.txt`) using `write_table(tidy_dat, "./TidyData.txt",row.names = FALSE)`
